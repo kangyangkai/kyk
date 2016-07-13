@@ -8,6 +8,7 @@
   <name>wk Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
+  
   <repositories>
         <repository>
             <id>nexus</id>
